@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET PROJECTS\\BankCustomerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\bankcustomermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:bankcustomermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\entities\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:entities\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|f:\\.net projects\\bankcustomermanagement\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CDA1D-7016-4CEE-89F3-0D72D92C76A2}|BankCustomerManagement.csproj|solutionrelative:entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:17:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:17:25.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:17:39.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankCustomerManagement.csproj",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\BankCustomerManagement.csproj",
+              "RelativeDocumentMoniker": "BankCustomerManagement.csproj",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\BankCustomerManagement.csproj",
+              "RelativeToolTip": "BankCustomerManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-07T09:14:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankingDbContext.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Data\\BankingDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BankingDbContext.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Data\\BankingDbContext.cs",
+              "RelativeToolTip": "Data\\BankingDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAMzMzMzMrwAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:15:45.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAANDMzMzMLwA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:24:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAABgAAAAAZmZmZmYGwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:52.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:17:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\CheckingAccount.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\CheckingAccount.cs",
+              "RelativeToolTip": "Entities\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:20:45.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\SavingsAccount.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:20:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Customer.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "F:\\.NET PROJECTS\\BankCustomerManagement\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:14.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
